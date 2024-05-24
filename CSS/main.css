@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to right , #74ebd5,#ACB6E5);
+}
+.fa-trash-can{
+    cursor: pointer;
+}
